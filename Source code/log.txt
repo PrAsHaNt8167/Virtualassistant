@@ -1,0 +1,14 @@
+[+] open Word
+[+] open Notepad
+[+] tell me a joke
+[+] notepad
+[+] joke
+[+] open Notepad
+[+] open Guru Guru
+[+] open Google
+[+] open Google
+[+] joke
+[+] joke
+[+] joke
+[+] Tu gand De apni
+[+] plaster Ho Gaya photo dekh lena
